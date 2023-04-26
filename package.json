@@ -1,0 +1,25 @@
+{
+  "name": "noderefresher",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nilay302/NodeRefresher.git"
+  },
+  "bin": {
+    "noderefresher": "./index.js"
+  },
+  "author": "Nilay Shirke",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nilay302/NodeRefresher/issues"
+  },
+  "homepage": "https://github.com/nilay302/NodeRefresher#readme",
+  "dependencies": {
+    "chokidar": "^3.5.3"
+  }
+}
